@@ -1,4 +1,4 @@
-service: github-demo
+service: aws-ses-serverless-example
 
 provider:
   name: aws
